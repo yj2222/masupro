@@ -1,5 +1,7 @@
 # masupro
 
+![programing-juku](https://user-images.githubusercontent.com/50900728/111075010-338d8c80-8529-11eb-8c83-b71f03445a47.jpg)
+
 ## サイトについて
 
 ### サイトタイトル
