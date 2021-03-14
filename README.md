@@ -1,35 +1,35 @@
-# masupro
+# 【masupro】
 
 ![programing-juku](https://user-images.githubusercontent.com/50900728/111075010-338d8c80-8529-11eb-8c83-b71f03445a47.jpg)
 
-## サイトについて
+## 【サイトについて】
 
-### サイトタイトル
+### ■サイトタイトル
 
 ますちゃんのプログラミング塾
 
-### 概要
+### ■概要
 
 ますちゃんのプログラミング塾はプログラミング学習を目的としたサイトです。<br>
 **小さな成功を積み重ねて楽しいプログラミング学習を**コンセプトに、<br>
 スライダー形式で学習することが出来ます。
 
-### サイトURL
+### ■サイトURL
 
 [ますちゃんのプログラミング塾](http://harapeko.cheap.jp/)
 
-### その他
+### ■その他
 
 コーディング系のポートフォリオとしても活用しています。
 
-## 使用言語、ツール等
+## 【使用言語、ツール等】
 
 - HTML/CSS/JQuery
     - bxslider/lightbox
 - wordpress/PHP
 - lolipop/github/vscode/illustorator/photoshop
 
-## 今後の方針
+## 【今後の方針】
 
 - コンテンツを充実させる。
     - 投稿の追加、更新と図や表をデザインツールで作成する。
